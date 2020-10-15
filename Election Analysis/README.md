@@ -5,7 +5,8 @@ Explain the purpose of this election audit analysis.
 ## Election results 
 
 Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
-![](images/Screen%20Shot%202020-10-15%20at%2012.17.13 PM.png)
+![Screen Shot 2020-10-15 at 12 17 13 PM](https://user-images.githubusercontent.com/16258584/96196876-22a70380-0f16-11eb-9c22-2b01f0271123.png)
+
   - How many votes were cast in this congressional election?
   - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
   - Which county had the largest number of votes?

@@ -1,7 +1,11 @@
 # Election Analysis
 
-## Overview of Election Audit
-The purpose of the election audit scipt was to provide a breakdown of the election results. The script gives detail on how many votes each person in each county recieved and what percentage of the the total votes that they recieved. At the end the scrit calculates the winner with the vote count and the winning percentage. 
+## Summary
+
+- Used python to automate the vote-counting process for a local election. By creating scripts that read, write, adn store data from files or in arrays. Then performed mathematiical operations. Used decision statements, logical operations for complex comarisions, and reptition statements to run code more than once. Then finally produced the output on the screen. 
+
+- The purpose of the election audit scipt was to provide a breakdown of the election results. The script gives detail on how many votes each person in each county recieved and what percentage of the the total votes that they recieved. At the end the scrit calculates the winner with the vote count and the winning percentage. 
+- 
 ## Election results 
 
 Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
@@ -24,6 +28,6 @@ Election-Audit Results: Using a bulleted list, address the following election ou
   Winning Vote Count: 272892
   Winning Percentage 73.8%
   
-## Election-Audit Summary
+## Election-Audit Conclussion 
 : In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 This script can be modified by using a different CSV document for a different election. There would need to be modifications on the arrays to collect the data from each row. 

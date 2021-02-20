@@ -5,7 +5,17 @@
 - Used python to automate the vote-counting process for a local election. By creating scripts that read, write, adn store data from files or in arrays. Then performed mathematiical operations. Used decision statements, logical operations for complex comarisions, and reptition statements to run code more than once. Then finally produced the output on the screen. 
 
 - The purpose of the election audit scipt was to provide a breakdown of the election results. The script gives detail on how many votes each person in each county recieved and what percentage of the the total votes that they recieved. At the end the scrit calculates the winner with the vote count and the winning percentage. 
-- 
+
+## Overview 
+
+### Election Results printed to the Command Line 
+
+- Used repetition statements, conditional statements with logical operators, and print statements, print out the candidate and county election results to the command line.
+
+### Election Results Saved to a Text File 
+
+- Wrote data to a text file, wrote the winning candidate results and the county election results to the election_results.txt file.
+
 ## Election results 
 
 Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
